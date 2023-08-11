@@ -17,7 +17,7 @@ setup(
     license="Creative Commons Attribution-NonCommercial-ShareAlike",
     long_description=readme,
     install_requires=[
-        'transformers==4.18.0',
+        'transformers==4.29.2',
         'omegaconf==2.1.2' 
     ],
 )
